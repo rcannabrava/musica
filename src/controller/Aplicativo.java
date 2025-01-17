@@ -9,10 +9,10 @@ public class Aplicativo {
 
 		Musica minhaMusica = new Musica();
 		
-		minhaMusica.setTitulo("CPX ta tega");
-		minhaMusica.setCantor("MC Poze");
-		minhaMusica.setFeat("MC Maneirinho");
-		minhaMusica.setGenero("Trap funk");
+		minhaMusica.setTitulo("Despacito");
+		minhaMusica.setCantor("Luis Fonsi");
+		minhaMusica.setFeat("Daddy Yankee");
+		minhaMusica.setGenero("Pop");
 		minhaMusica.setAlbum("Single");
 		
 		for(int i = 0; i >= 100; i++) {
